@@ -9,11 +9,20 @@ node
 
 ## 使用技术
 
-react typescript
+- react
+- typescript
+- sass 样式
 
 # 创建项目框架
 
 - npx create-react-app web_ui_compoent_ts --template typescript
+
+# 安装依赖模块
+
+- cnpm install classnames --save-dev
+- cnpm install @types/classnames --save-dev
+- cnpm install node-sass --save-dev
+- cnpm install @types/node-sass --save-dev
 
 # 版本管理
 
@@ -25,3 +34,10 @@ react typescript
 - git branch -M master
 - git remote add origin https://github.com/xjxafj/uic.git
 - git push origin master
+
+# 颜色
+
+- 系统颜色
+- 品牌色
+- 功能色
+-
