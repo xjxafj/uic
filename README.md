@@ -11,6 +11,10 @@ node
 
 react typescript
 
+# 创建项目框架
+
+- npx create-react-app web_ui_compoent_ts --template typescript
+
 # 版本管理
 
 使用 git 版本管理,并添加.gitignore 配置
@@ -21,7 +25,3 @@ react typescript
 - git branch -M master
 - git remote add origin https://github.com/xjxafj/uic.git
 - git push origin master
-
-## 新建目录结构
-
-public src src/styles src/componnents
