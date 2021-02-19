@@ -34,8 +34,7 @@ const Button: FC<ButtonProps>=(props)=>{
 Button.defaultProps = {
     disabled: false,
     btnType: "default",
-    children:""
-
+    children:"这人太懒了"
 }
 
 export default Button;
