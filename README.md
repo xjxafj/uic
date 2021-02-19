@@ -1,6 +1,10 @@
 ## 项目名 uic
 
+构建 Web 界面组件库
 uic
+
+#使用技术
+react typescript
 
 # 版本管理
 
