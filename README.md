@@ -34,6 +34,7 @@ node
 - git branch -M master
 - git remote add origin https://github.com/xjxafj/uic.git
 - git push origin master
+- git pull origin master
 
 # 颜色
 
