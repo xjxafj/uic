@@ -12,3 +12,4 @@
 [0219/172009.744:ERROR:registration_protocol_win.cc(102)] CreateFile: 系统找不到指定的文件。 (0x2)
 [0219/181516.469:ERROR:registration_protocol_win.cc(102)] CreateFile: 系统找不到指定的文件。 (0x2)
 [0219/181533.570:ERROR:registration_protocol_win.cc(102)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0219/183144.854:ERROR:registration_protocol_win.cc(102)] CreateFile: 系统找不到指定的文件。 (0x2)
